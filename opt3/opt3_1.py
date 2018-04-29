@@ -1,4 +1,5 @@
-######tensorflow opt3_1#######
+#coding:utf-8
+#opt3_1:正向传播
 import tensorflow as tf
 x = tf.constant([[1.0,2.0]])
 w = tf.constant([[3.0],[4.0]])
